@@ -1,4 +1,4 @@
-# Airline Statistics 👩‍✈️
+# Airline Statistics 👩‍✈️  Final exam - UCPH
 
 The goal of this exercise was to analyze a dataset containing information about flights in the USA from [the Bureau of Transportation Statistics](https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236&DB_Short_Name=On-Time). 
 
@@ -29,4 +29,4 @@ most delayed flights for each airline ID, using also a combiner. The reducer out
 
 The folder of each task contains the source code files (mapper.py/combiner.py/reducer.py) and the outputs (results.txt) according to the task.
 
-**P.S.:** Answers based on material shared during the course *Large-Scale Data Analysis (LSDA) - UCPH*.
+**P.S.:** Answers based on material shared during the course *Large-Scale Data Analysis (LSDA)*.
