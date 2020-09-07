@@ -1,4 +1,4 @@
-# Airline Statistics 👩‍✈️  Final exam - UCPH
+# Airline Statistics 👩‍✈️ - UCPH
 
 The goal of this exercise was to analyze a dataset containing information about flights in the USA from [the Bureau of Transportation Statistics](https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236&DB_Short_Name=On-Time). 
 
